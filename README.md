@@ -10,6 +10,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tej-desale-4264a0148)
 
 [**View Projects**](#-featured-projects) &nbsp;•&nbsp; [**Download Resume**](./Tej_Desale_Resume.pdf) &nbsp;•&nbsp; [**Contact Me**](#-lets-connect)
 
@@ -317,24 +318,9 @@ Automated pipeline that pulls real-time crypto market data via the CoinGecko API
 ## 📫 Let's Connect
 
 ![Email](https://img.shields.io/badge/Email-tejdesale1718%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tej-desale-4264a0148)
 ![Phone](https://img.shields.io/badge/Phone-%2B91_7385796517-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Mumbai%2C_India-blue?style=flat-square)
 
 <div align="center">
-
-*Thanks for stopping by — always open to data conversations and opportunities!*
-
-</div>
-Two small things before you push:
-
-./Tej_Desale_Resume.pdf link — upload the actual PDF into your portfolio repo root (or swap for a hosted link), otherwise that button 404s
-Add a LinkedIn badge if you have a profile URL — just send it and I'll slot it in
-Want this as an actual downloadable .md file, or are you pasting it in yourself?
-
-
-
-
-
-
-
 
