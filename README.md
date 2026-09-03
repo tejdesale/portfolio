@@ -24,9 +24,6 @@ Detail-oriented **Reporting & Analytics professional** with 3+ years of experien
 
 <div align="center">
 
-![Experience](https://img.shields.io/badge/Experience-3%2B_Years-blue?style=flat-square)
-![Records](https://img.shields.io/badge/Weekly_Records_Analyzed-1000%2B-blue?style=flat-square)
-![Performance](https://img.shields.io/badge/Top_Performer-3_Consecutive_Quarters-success?style=flat-square)
 
 </div>
 
