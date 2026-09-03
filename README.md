@@ -1,15 +1,12 @@
 <div align="center">
 
 # Tej Desale
+
 ### Data Analyst | Turning Raw Data into Business Insights
 
 📍 Mumbai, India &nbsp;|&nbsp; 📧 tejdesale1718@gmail.com &nbsp;|&nbsp; 📞 +91 7385796517
 
 ![Data Analyst](https://img.shields.io/badge/Data-Analyst-00FF00?style=for-the-badge&logo=databricks&logoColor=white)
-![Excel](https://img.shields.io/badge/Advanced-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tej-desale-4264a0148)
 
 [**View Projects**](#-featured-projects) &nbsp;•&nbsp; [**Download Resume**](./Tej_Desale_Resume.pdf) &nbsp;•&nbsp; [**Contact Me**](#-lets-connect)
