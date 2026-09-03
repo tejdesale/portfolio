@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" markdown="1">
 
 # Tej Desale
 
@@ -19,21 +19,33 @@
 
 Detail-oriented **Reporting & Analytics professional** with 3+ years of experience creating and publishing daily, weekly, and monthly reports with high accuracy for global stakeholders. Skilled in **Advanced Excel, VBA-based automation, and Power BI dashboarding** to reduce manual effort and improve reporting turnaround. I dig into large datasets to catch trends and anomalies before they become problems, support SLA/KPI tracking, and deliver ad hoc reporting under tight deadlines.
 
-<div align="center">
-
-
-</div>
-
 ---
 
 ## 🛠️ Skills
 
-**Analytics & BI**
+**Database Management**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![DB Design](https://img.shields.io/badge/Database_Design-CC2927?style=flat-square)
+![Query Optimization](https://img.shields.io/badge/Query_Optimization-orange?style=flat-square)
+
+**Data Processing**
+
+![ETL](https://img.shields.io/badge/ETL%2FELT_Workflows-teal?style=flat-square)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-teal?style=flat-square)
+![Data Integrity](https://img.shields.io/badge/Data_Integrity-teal?style=flat-square)
+
+**Advanced Excel**
 
 ![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA_Automation-8B0000?style=flat-square)
-![PowerBI](https://img.shields.io/badge/Power_BI_(DAX)-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-217346?style=flat-square)
+![VLOOKUP](https://img.shields.io/badge/VLOOKUP%2FHLOOKUP-217346?style=flat-square)
+
+**Data Visualization**
+
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square)
+![Dashboards](https://img.shields.io/badge/Dashboard_Development-F2C811?style=flat-square)
 
 **Programming**
 
@@ -42,6 +54,10 @@ Detail-oriented **Reporting & Analytics professional** with 3+ years of experien
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+**Market Research**
+
+`Data Collection` `Primary & Secondary Research`
 
 **Core Competencies**
 
@@ -126,48 +142,9 @@ Automated pipeline that pulls real-time crypto market data via the CoinGecko API
 |---|---|---|---|
 | B.E. Civil Engineering | VIVA Institute of Technology, Mumbai | 9.16 CGPI | 2022 |
 | Diploma in Engineering | VJTI, Mumbai | 78% | 2019 |
-| SSC(10th) | A.V.S Vidyamandir, Virar | 92.40% | 2016 |
-
-
-
-## 🛠️ Skills
-
-**Database Management**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![DB Design](https://img.shields.io/badge/Database_Design-CC2927?style=flat-square)
-![Query Optimization](https://img.shields.io/badge/Query_Optimization-orange?style=flat-square)
-
-**Data Processing**
-
-![ETL](https://img.shields.io/badge/ETL%2FELT_Workflows-teal?style=flat-square)
-![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-teal?style=flat-square)
-![Data Integrity](https://img.shields.io/badge/Data_Integrity-teal?style=flat-square)
-
-**Advanced Excel**
-
-![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-217346?style=flat-square)
-![VLOOKUP](https://img.shields.io/badge/VLOOKUP%2FHLOOKUP-217346?style=flat-square)
-
-**Data Visualization**
-
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square)
-![Dashboards](https://img.shields.io/badge/Dashboard_Development-F2C811?style=flat-square)
-
-**Programming**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Market Research**
-
-`Data Collection` `Primary & Secondary Research`
+| SSC (10th) | A.V.S Vidyamandir, Virar | 92.40% | 2016 |
 
 ---
-
 
 ## 📫 Let's Connect
 
@@ -177,7 +154,5 @@ Automated pipeline that pulls real-time crypto market data via the CoinGecko API
 ![Location](https://img.shields.io/badge/Location-Mumbai%2C_India-blue?style=flat-square)
 
 ---
-*Thanks for stopping by - always open to data conversations and opportunities!*
----
-<div align="center">
 
+*Thanks for stopping by — always open to data conversations and opportunities!*
