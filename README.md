@@ -107,18 +107,19 @@ Automated pipeline that pulls real-time crypto market data via the CoinGecko API
 
 ## 💼 Experience
 
-**MIS & Data Analyst** — Corsearch | Mumbai
-`Mar 2024 – Present`
-- Prepare and publish daily/weekly/monthly MIS reports for global stakeholders
-- Automated reporting workflows using Excel formulas, Pivot Tables & VBA macros
-- Designed Power BI & Excel dashboards for KPI tracking and anomaly detection
-- Ranked **top performer** across UK & India teams for 3 consecutive quarters
+**Data Analyst** — Corsearch | Mumbai `Mar 2024 – Present`
 
-**Data Research Analyst** — SEEK Research Solutions | Remote (Contract)
-`Aug 2023 – Jan 2024`
-- Generated MIS reports and analytical summaries using SQL and Excel
-- Automated recurring reports, improving turnaround time
-- Delivered structured reports and ad hoc analysis for cross-functional teams
+- Manage ETL/ELT workflows to collect and process 1,000+ weekly data points for clients such as Amazon and Netflix
+- Utilize SQL and Python to perform complex data analysis, ensuring high precision in managing large datasets and maintaining data integrity
+- Design and maintain comprehensive databases by leveraging advanced data collection and ELT techniques to streamline ingestion of infringing content violations
+- Develop actionable insights and visual reports using Power BI, identifying emerging threats and patterns to improve content protection strategies
+- Conduct deep-dive data analysis to provide data-driven recommendations and timely reports on illegal content activity for strategic decision-making
+
+**Data Research Analyst** — SEEK Research Solutions | Remote (Contract) `Aug 2023 – Nov 2023`
+
+- Executed ETL processes using MySQL to streamline data acquisition from various sources, enhancing overall research efficiency
+- Leveraged MySQL to manage and query large datasets, providing data-driven insights and recommendations to optimize business strategies
+- Collaborated with cross-functional teams to identify key data requirements and delivered structured reports using database analysis
 
 ---
 
@@ -128,7 +129,7 @@ Automated pipeline that pulls real-time crypto market data via the CoinGecko API
 |---|---|---|---|
 | B.E. Civil Engineering | VIVA Institute of Technology, Mumbai | 9.16 CGPI | 2022 |
 | Diploma in Engineering | VJTI, Mumbai | 78% | 2019 |
-| SSC | — | 92.40% | — |
+| SSC | A.V.S Vidyamandir, Virar | 92.40% | 2016 |
 
 ---
 
@@ -140,25 +141,10 @@ Automated pipeline that pulls real-time crypto market data via the CoinGecko API
 
 <div align="center">
 
-*Thanks for stopping by — always open to data conversations and opportunities!*
+*Thanks for stopping by - always open to data conversations and opportunities!*
 
 </div>
-Notes before you push this:
 
-Update the resume link ./Tej_Desale_Resume.pdf — upload your resume PDF into the portfolio repo root, or swap in a real hosted link (Google Drive, etc.)
-Add your LinkedIn badge if you want it — just tell me the URL and I'll slot it into the header and contact section
-SSC section has no institute name — let me know it if you want that filled in
-Want me to also generate this as an actual downloadable README.md file, or are you copy-pasting it into GitHub yourself?
-
-Tej_Desale_Resume.pdf
-pdf
-
-sorry my bad i have given you wrong resume 
-
-now do rest everything same with it
-
-Thought for 6s
-No worries — here's the updated README with your correct resume details swapped in. Structure stays the same; content now matches this version. (Still keeping your GitHub project links only, not the resume's own "Maharashtra Election" / "Netflix Content Strategy" case studies, since those aren't public repos.)
 
 markdown
 <div align="center">
